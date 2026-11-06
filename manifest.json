@@ -1,0 +1,27 @@
+{
+  "manifest_version": "1.0",
+  "org": "sphinx-contrib",
+  "repo": "rawfiles",
+  "versions": [
+    {
+      "commit": "4289d667234758c6c5530cf85e18fa81f04b9709",
+      "parsed_at": "2026-11-06T18:33:11.585516+00:00",
+      "filetree": "filetree/4289d667234758c6c5530cf85e18fa81f04b9709.nq.gz",
+      "blobs": [
+        "blob/2eba9160d403563d8b100534a4d950281de057e6.nq.gz",
+        "blob/bfb9f4b5e992f8af7ca8153e93dab5c67e47976f.nq.gz",
+        "blob/a4591ad8f68dd7f96731a76e965813ec9dffc6c0.nq.gz",
+        "blob/368768db0fdb86edb55401dda936dcf32a276a32.nq.gz",
+        "blob/eea263f6595c2cb5ff145e51976df69b162c88a9.nq.gz",
+        "blob/8e7e2bc0d26ebc39199523caf9850ff62f3d650a.nq.gz",
+        "blob/32f058fda82b7ad232f99b9e475bc369ae02cbf9.nq.gz",
+        "blob/b5a7dc29ef0f7f3593b1c61cfc5dfe8a17d3918c.nq.gz",
+        "blob/3e5c226e60d40818ed6c6c53801d2a854e0251df.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
